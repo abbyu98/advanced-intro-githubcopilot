@@ -4,13 +4,13 @@ Welcome to the Chatbot Model Comparison activity! Here, you will compare the out
 Complete the activity [here](https://igfnaqfcyl-13589482-i.codehs.me/index.html).  Then edit this page and write down your reflections here:
 
 ### Which model did you find performed best overall, and why?
-[Reflection Here]
+ChatGPT.
 
 ### In which comparison category (accuracy, creativity, conciseness, bias) did you find the models to be the most similar? What about the most different?
-[Reflection Here]
+Accuracy and Conciseness.
 
 ### Were you surprised by any of the results?
-[Reflection Here]
+Not really, I believe AI tries to give as much info as possible but I also believes it tries to learn you as a person and provide a response you may prefer.
 
 ### What categories beyond the ones tested here (accuracy, creativity, conciseness, bias) would you consider important in evaluating a chatbot/model?
-[Reflection Here]
+Natural language/ Responsiveness.
